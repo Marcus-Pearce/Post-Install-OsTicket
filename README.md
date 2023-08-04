@@ -97,6 +97,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
+![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/bb36e85c-d3d2-438d-8898-9537eedadb7e)
+
 
 
 </p>
@@ -108,6 +110,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
+![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/195b0c4e-f364-46f5-8273-e89d2716e0cb)
 
 
 </p>
