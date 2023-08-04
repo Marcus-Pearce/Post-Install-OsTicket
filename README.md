@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create a new team
 - Set access control on ticket creation
 - Create agents and assign access levels
-- Create SLA's by severity 
+- Create SLA's by severity and response time
 
 <h2>Configuration Steps</h2>
 </p>
@@ -35,7 +35,8 @@ Enter the admin panel and configure the system.
 <br />
 <p>
   
-![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/0a9aea9b-45a6-4fb8-8fa5-f5d30326c5d2)
+![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/5d96d4a3-ab32-4e24-ac47-1af6f78d4416)
+
 
 </p>
 <p>
@@ -43,7 +44,8 @@ Create a new role to act as an Supreme Administrator with access above all else 
 </p>
 <br />
 
-![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/b8023e21-510f-4127-abac-06aa82e9ed33)
+![image](https://github.com/Mrpearce92/post-install-config/assets/140969692/0949d966-318d-406b-983c-71ba7cf4770b)
+
 
 
 <p>
