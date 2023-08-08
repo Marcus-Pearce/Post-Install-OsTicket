@@ -71,7 +71,7 @@ Create a new team for Support.
 
 </p>
 <p>
-In the User tab of SEttings check the box to require regristration and login to creat tickets in the Authentication Settings.  
+In the User tab of Settings check the box to require regristration and login to creat tickets in the Authentication Settings.  
 </p>
 <br />
 
@@ -81,7 +81,7 @@ In the User tab of SEttings check the box to require regristration and login to 
 
 </p>
 <p>
-Create agents and assing permission levels based on title.
+Create agents and assign permission levels based on title.
 </p>
 <br />
 
